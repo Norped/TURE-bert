@@ -10,6 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class UrlNavigatorApplication {
 
 	public static void main(String[] args) {
+		// Updated on Feb-21-2025
 		SpringApplication.run(UrlNavigatorApplication.class, args);
 	}
 
